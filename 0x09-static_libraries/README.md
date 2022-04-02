@@ -1,1 +1,1 @@
-stndlib
+Static libraries in C
